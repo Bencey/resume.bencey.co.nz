@@ -1,8 +1,44 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+  name: Cub Leader
+#  link: github.com/sproogen
+#  github: sproogen/resume-theme
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    Program Activity Leader for a Scout group in New Zealand 
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    I am currently a Cub leader for scouts. This group of kids (aged 8-11) Meet every monday night 5pm-6:30pm Some of my roles here is to make sure everyone is safe, plan the games and to assist the other leaders with jobs that may need done.
+
+
+- layout: top-middle
+  name: Founder- Tier III Technologies
+  link: tier3tech.co.nz
+#  github: sproogen/resume-theme
+#  quote: >
+  description: | # this will include new lines to allow paragraphs
+     I am the founder of a local IT buisness called Tier III Technologies. My job is to preform a varity of IT jobs such as repairs, data recovery, System setup, diagnostic tests and much more.
+
+- layout: top-middle
+  name: Bencey Bot
+  link: dashboard.bencey.me
+#  github: sproogen/resume-theme
+  quote: >
+    A multipurpose Discord Bot
+  description: | # this will include new lines to allow paragraphs
+    Over the past few years I have been designing a discord bot. This bot is programmed in discordjs (A nodejs module branched from java script) So far the things that this bot can do is moderation, A level system, Chat and lots of Fun. If you want to give me some suggestions on what I should add feel free to goto my discord server and use #suggestions
+
+- layout: top-middle
+  name: 2A Coin Tipbot
+#  link: dashboard.bencey.me
+#  github: sproogen/resume-theme
+  quote: >
+    A Crypto Discord Bot
+  description: | # this will include new lines to allow paragraphs
+    I recently reworked a bot for a cryptocurrency coin (2ACoin). This bot allowed users to tip each other coins, this bot worked by relaying the payment to the users wallet addresses. This bot was reworked from the original bot made by turtlecoin. This bot was made for the coin 2ACoin.
+
+- layout: top-middle
+  name: Moneta Verde Tipbot
+#  link: dashboard.bencey.me
+#  github: sproogen/resume-theme
+  quote: >
+    A Crypto Discord Bot
+  description: | # this will include new lines to allow paragraphs
+     I recently reworked a bot for a cryptocurrency coin (MonetaVerde). This bot was the second tip bot I have reworked which allowed users to tip each other coins, this bot worked by relaying the payment to the users wallet addresses. This bot was reworked from the original bot made by turtlecoin which I blogged about. You can read the post Here. This bot was made for the coin Monetaverde.
