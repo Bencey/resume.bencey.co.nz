@@ -57,7 +57,7 @@
 #  quote: >
 
   description: | # this will include new lines to allow paragraphs
-My own server :)
+    My own server :)
 
 - layout: left
   company: QNAP Unofficial Discord
@@ -78,7 +78,7 @@ My own server :)
 #  quote: >
 
   description: | # this will include new lines to allow paragraphs
-I am currently a chat mod for a discord server that is based around firing ranges and guns. Some of my main jobs is to watch chat and make sure that everyone is enjoying themself and behaving. And if there is multiple members on I will host an friendly event between the members.
+    I am currently a chat mod for a discord server that is based around firing ranges and guns. Some of my main jobs is to watch chat and make sure that everyone is enjoying themself and behaving. And if there is multiple members on I will host an friendly event between the members.
 
 - layout: left
   company: GotPvP
@@ -88,7 +88,7 @@ I am currently a chat mod for a discord server that is based around firing range
 #  quote: >
 
   description: | # this will include new lines to allow paragraphs
-Over the years I have been moderating a discord called gotpvp. Some of my many jobs that I did is basically to keep the community safe this could include, Keeping the chat clean (No vulgar words), Making sure there is nothing NSFW in the chats and making sure everyone is having a good time.
+    Over the years I have been moderating a discord called gotpvp. Some of my many jobs that I did is basically to keep the community safe this could include, Keeping the chat clean (No vulgar words), Making sure there is nothing NSFW in the chats and making sure everyone is having a good time.
 
 - layout: left
   company: GotPvP Nub Club
@@ -98,5 +98,5 @@ Over the years I have been moderating a discord called gotpvp. Some of my many j
 #  quote: >
 
   description: | # this will include new lines to allow paragraphs
-The gotpvp nub club was a social group based around the server gotpvp.
-When I first joined I offered my services as a Bot developer then gradually turned into a normal developer until I got offered the position of co-owner. Some of my roles included Running events (Game nights, Movie nights and giveaways), Looking out to see who deserves promotions And to make sure the server rules are being followed
+    The gotpvp nub club was a social group based around the server gotpvp.
+    When I first joined I offered my services as a Bot developer then gradually turned into a normal developer until I got offered the position of co-owner. Some of my roles included Running events (Game nights, Movie nights and giveaways), Looking out to see who deserves promotions And to make sure the server rules are being followed
