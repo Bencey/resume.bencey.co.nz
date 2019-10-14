@@ -1,4 +1,4 @@
-- layout: left
+- layout: top-middle
   company: Funkypenguin
   link: https://discord.gg/EfdJ9tQ
   job_title: Discord Administrator
@@ -8,7 +8,7 @@
   description: | # this will include new lines to allow paragraphs
     I have been helping someone I know in real life to setup his discord server. This person is such an inspiration to me and without him I would not be where I am right now (Blogging) he is the person who helped me get started on blogging after buying me the domain I currently use. Some of my roles in his server is to set it up Such as finding bots that suit his needs and deal with permissions and channels.
 
-- layout: left
+- layout: top-middle
   company: Moneta Verde
   link: https://discord.gg/aeuN7g
   job_title: Discord Administrator
@@ -19,27 +19,17 @@
     I recently started working on a new discord server dedicated to a crypto coin,
 
 
-- layout: left
+- layout: top-middle
   company: NARC 
 #  link: https://discord.gg/aeuN7g
-  job_title: Discord Maitnence 
+  job_title: Discord Maintenance 
   dates: 2019 - 2019
 #  quote: >
 
   description: | # this will include new lines to allow paragraphs
     I have recently been hired to work as a Discord Maintenance member on the NARC server. Some of my jobs are maintaining the discord making sure it is up to standards and keeping up to date with permissions.
 
-- layout: left
-  company: NARC 
-#  link: https://discord.gg/aeuN7g
-  job_title: Discord Maitnence 
-  dates: 2019 - 2019
-#  quote: >
-
-  description: | # this will include new lines to allow paragraphs
-    I have recently been hired to work as a Discord Maintenance member on the NARC server. Some of my jobs are maintaining the discord making sure it is up to standards and keeping up to date with permissions.
-
-- layout: left
+- layout: top-middle
   company: Computing On Demand 
   link: https://discord.gg/3xScdPD
   job_title: Discord Administrator 
@@ -49,7 +39,7 @@
   description: | # this will include new lines to allow paragraphs
    As I was setting up funkypenguin’s discord server one of his members approached me and asked if I am able to help him with his discord server. So I accepted and started to setup his discord server. So far some of the jobs I have been doing is reorganizing the channels and category’s, Fixing some permissions and adding a few bots. This discord server is based around cryptocurrency mining.
 
-- layout: left
+- layout: top-middle
   company: Tier III Technologies
   link: https://discord.gg/FjGjz9Y
   job_title: Discord Owner 
@@ -59,7 +49,7 @@
   description: | # this will include new lines to allow paragraphs
     My own server :)
 
-- layout: left
+- layout: top-middle
   company: QNAP Unofficial Discord
   link: https://discord.gg/e9rwUc7
   job_title: Discord Administrator 
@@ -70,7 +60,7 @@
     I have recently setup and currently adminstrating a discord server called qnap. This server is based around qnap (A NAS system).
 
 
-- layout: left
+- layout: top-middle
   company: Firing Range
 #  link: https://discord.gg/e9rwUc7
   job_title: Chat Moderator
@@ -80,7 +70,7 @@
   description: | # this will include new lines to allow paragraphs
     I am currently a chat mod for a discord server that is based around firing ranges and guns. Some of my main jobs is to watch chat and make sure that everyone is enjoying themself and behaving. And if there is multiple members on I will host an friendly event between the members.
 
-- layout: left
+- layout: top-middle
   company: GotPvP
 #  link: https://discord.gg/e9rwUc7
   job_title: Discord Administrator
@@ -90,7 +80,7 @@
   description: | # this will include new lines to allow paragraphs
     Over the years I have been moderating a discord called gotpvp. Some of my many jobs that I did is basically to keep the community safe this could include, Keeping the chat clean (No vulgar words), Making sure there is nothing NSFW in the chats and making sure everyone is having a good time.
 
-- layout: left
+- layout: top-middle
   company: GotPvP Nub Club
 #  link: https://discord.gg/e9rwUc7
   job_title: Co-Owner
