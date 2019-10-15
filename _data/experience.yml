@@ -1,4 +1,24 @@
 - layout: top-middle
+  company: ZSecurity
+  link: https://www.udemy.com/course/learn-social-engineering-from-scratch/
+  job_title: Learn Social Engineering From Scratch
+  dates: 17th November 2019
+#  quote: >
+
+  description: | # this will include new lines to allow paragraphs
+    Completed Social Engineering from scratch Course through ZSecurity on Udemy
+    
+- layout: top-middle
+  company: ZSecurity
+  link: https://www.udemy.com/course/learn-ethical-hacking-from-scratch/
+  job_title: Learn Ethical Hacking From Scratch
+  dates: 29th August 2019
+#  quote: >
+
+  description: | # this will include new lines to allow paragraphs
+    Completed Ethical Hacking from scratch Course through ZSecurity on Udemy
+    
+- layout: top-middle
   company: Funkypenguin
   link: https://discord.gg/EfdJ9tQ
   job_title: Discord Administrator
