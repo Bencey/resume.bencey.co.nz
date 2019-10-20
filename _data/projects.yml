@@ -26,6 +26,34 @@
     Over the past few years I have been designing a discord bot. This bot is programmed in discordjs (A nodejs module branched from java script) So far the things that this bot can do is moderation, A level system, Chat and lots of Fun. If you want to give me some suggestions on what I should add feel free to goto my discord server and use #suggestions
 
 - layout: top-middle
+  name: CodPool Chat Bridge
+  #link: dashboard.bencey.me
+#  github: sproogen/resume-theme
+  quote: >
+    Linking DIscord and Telegram together
+  description: | # this will include new lines to allow paragraphs
+    Created a chat bridge for CodPool which has linked their telegram and discord server together, If a user sends a message in telegram it will automatically post the message in discord and vice versa
+  
+
+- layout: top-middle
+  name: Moneta Verde Chat Bridge
+  #link: dashboard.bencey.me
+#  github: sproogen/resume-theme
+  quote: >
+    Linking DIscord and Telegram together
+  description: | # this will include new lines to allow paragraphs
+    Created a chat bridge for Moneta Verde which has linked their telegram and discord server together, If a user sends a message in telegram it will automatically post the message in discord and vice versa
+  
+- layout: top-middle
+  name: Ombre Coin Chat Bridge
+  #link: dashboard.bencey.me
+#  github: sproogen/resume-theme
+  quote: >
+    Linking DIscord and Telegram together
+  description: | # this will include new lines to allow paragraphs
+    Created a chat bridge for Ombre which has linked their telegram and discord server together, If a user sends a message in telegram it will automatically post the message in discord and vice versa
+
+- layout: top-middle
   name: 2A Coin Tipbot
 #  link: dashboard.bencey.me
 #  github: sproogen/resume-theme
