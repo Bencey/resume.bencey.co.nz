@@ -18,12 +18,12 @@
 
 - layout: top-middle
   name: Bencey Bot
-  link: dashboard.bencey.me
+  #link: dashboard.bencey.me
 #  github: sproogen/resume-theme
   quote: >
     A multipurpose Discord Bot
   description: | # this will include new lines to allow paragraphs
-    Over the past few years I have been designing a discord bot. This bot is programmed in discordjs (A nodejs module branched from java script) So far the things that this bot can do is moderation, A level system, Chat and lots of Fun. If you want to give me some suggestions on what I should add feel free to goto my discord server and use #suggestions
+    Over the past few years I have been designing a discord bot. This bot is programmed in discordjs (A nodejs module branched from java script) So far the things that this bot can do is moderation, A level system, Chat and lots of Fun. This bot has been archived as of 4/27/2020
 
 - layout: top-middle
   name: CodPool Chat Bridge
@@ -34,25 +34,6 @@
   description: | # this will include new lines to allow paragraphs
     Created a chat bridge for CodPool which has linked their telegram and discord server together, If a user sends a message in telegram it will automatically post the message in discord and vice versa
   
-
-- layout: top-middle
-  name: Moneta Verde Chat Bridge
-  #link: dashboard.bencey.me
-#  github: sproogen/resume-theme
-  quote: >
-    Linking DIscord and Telegram together
-  description: | # this will include new lines to allow paragraphs
-    Created a chat bridge for Moneta Verde which has linked their telegram and discord server together, If a user sends a message in telegram it will automatically post the message in discord and vice versa
-  
-- layout: top-middle
-  name: Ombre Coin Chat Bridge
-  #link: dashboard.bencey.me
-#  github: sproogen/resume-theme
-  quote: >
-    Linking DIscord and Telegram together
-  description: | # this will include new lines to allow paragraphs
-    Created a chat bridge for Ombre which has linked their telegram and discord server together, If a user sends a message in telegram it will automatically post the message in discord and vice versa
-
 - layout: top-middle
   name: 2A Coin Tipbot
 #  link: dashboard.bencey.me
@@ -63,10 +44,18 @@
     I recently reworked a bot for a cryptocurrency coin (2ACoin). This bot allowed users to tip each other coins, this bot worked by relaying the payment to the users wallet addresses. This bot was reworked from the original bot made by turtlecoin. This bot was made for the coin 2ACoin.
 
 - layout: top-middle
-  name: Moneta Verde Tipbot
-#  link: dashboard.bencey.me
+  name: Web Developer- Betterbarriers
+  link: betterbarriers.com
 #  github: sproogen/resume-theme
-  quote: >
-    A Crypto Discord Bot
+#  quote: >
   description: | # this will include new lines to allow paragraphs
-     I recently reworked a bot for a cryptocurrency coin (MonetaVerde). This bot was the second tip bot I have reworked which allowed users to tip each other coins, this bot worked by relaying the payment to the users wallet addresses. This bot was reworked from the original bot made by turtlecoin which I blogged about. You can read the post Here. This bot was made for the coin Monetaverde.
+     I am currently doing freelance Web Development work for betterbarriers. Some of the tasks I have been given include, Adding new pages and updating plugins, Editing the colour scheme and preforming matinence on the site when needed, I also get given misc jobs by the team.
+
+- layout: top-middle
+  name: Web Developer- My Blog
+  link: bencey.co.nz
+#  github: sproogen/resume-theme
+#  quote: >
+  description: | # this will include new lines to allow paragraphs
+     I am currently the main Web Developer for my personal blog. This site is run on jekyll and I constantly update the blog with new features, Some of the tasks I have completed are: Adding a comment section, Adding a dynamic post and preforming bug fixes.
+
