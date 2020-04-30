@@ -35,6 +35,16 @@
     Created a chat bridge for CodPool which has linked their telegram and discord server together, If a user sends a message in telegram it will automatically post the message in discord and vice versa
   
 - layout: top-middle
+  name: Patreon Github Integration
+  #link: dashboard.bencey.me
+#  github: sproogen/resume-theme
+  quote: >
+    Linking Github and Patreon together
+  description: | # this will include new lines to allow paragraphs
+    On the 11/27/2019 I created a discord bot which integrated patreon and github together. The client that I was working for requested a bot which when a patreon sent a message in a discord channel it would invite them to the private github repository. I managed to create this by linking the two APIs together so if a user was a patreon it allowed them to send a specific command which asked the user for their github username, Once their username was sent it would automatically send them an invitation. I also had to make it so when a user was no longer a patreon it would remove them from the repository
+    
+    
+- layout: top-middle
   name: 2A Coin Tipbot
 #  link: dashboard.bencey.me
 #  github: sproogen/resume-theme
