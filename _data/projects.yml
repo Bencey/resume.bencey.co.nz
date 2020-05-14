@@ -70,6 +70,15 @@
      I am currently the main Web Developer for my personal blog. This site is run on jekyll and I constantly update the blog with new features, Some of the tasks I have completed are: Adding a comment section, Adding a dynamic post and preforming bug fixes.
 
 - layout: top-middle
+  company: USRPC
+  link: http://usrpc.net/
+  job_title: Developer
+  dates: 2020 - Present
+#  quote: >
+  description: | # this will include new lines to allow paragraphs
+   I am a developer for a FiveM Community, The server is a roleplaying community based around the game Fivem (Roleplaying version of Gta). Majority of our scripts are coded in Lua and I am one of the members of the small team that are focused on keeping the server maintained and adding new features. Some of my jobs I have been tasked with are creating an anticheat for the server as we have had issues with exploiters in the past. I also apply bug fixes to scripts when we are notified of a bug. 
+
+- layout: top-middle
   company: Funkypenguin
   link: https://discord.gg/EfdJ9tQ
   job_title: Discord Administrator
