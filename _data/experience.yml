@@ -17,3 +17,39 @@
 
   description: | # this will include new lines to allow paragraphs
     Completed Ethical Hacking from scratch Course through ZSecurity on Udemy
+    
+- layout: top-middle
+  company: NZQA
+  link: https://www.nzqa.govt.nz/ncea/understanding-ncea/how-ncea-works/ncea-levels-and-certificates/
+  job_title: NCEA Level 1
+  dates: December 2018
+#  quote: >
+  description: | # this will include new lines to allow paragraphs
+    Completed NCEA Level 1 Which is a formal certification of learning
+    
+- layout: top-middle
+  company: NZQA
+  link: https://www.nzqa.govt.nz/ncea/understanding-ncea/how-ncea-works/ncea-levels-and-certificates/
+  job_title: NCEA Level 2
+  dates: December 2019
+#  quote: >
+  description: | # this will include new lines to allow paragraphs
+    Completed NCEA Level 2 Which is a formal certification of learning
+    
+- layout: top-middle
+  company: St John
+  link: https://buy.stjohn.org.nz/first-aid/first-aid-courses/first-aid-level-1
+  job_title: First Aid Lv 1
+  dates: November 2019
+#  quote: >
+  description: | # this will include new lines to allow paragraphs
+    Completed First Aid Level 1 which is a formal first aid certificate
+    
+- layout: top-middle
+  company: BIMZ
+  #link: https://buy.stjohn.org.nz/first-aid/first-aid-courses/first-aid-level-1
+  job_title: Health And Safety
+  dates: February 2020
+#  quote: >
+  description: | # this will include new lines to allow paragraphs
+    Completed Workplace Health And Safety Course
