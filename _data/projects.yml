@@ -7,7 +7,6 @@
   description: | # this will include new lines to allow paragraphs
     I am currently a Cub leader for scouts. This group of kids (aged 8-11) Meet every monday night 5pm-6:30pm Some of my roles here is to make sure everyone is safe, plan the games and to assist the other leaders with jobs that may need done.
 
-
 - layout: top-middle
   name: Founder- Tier III Technologies
   link: tier3tech.co.nz
@@ -43,7 +42,6 @@
   description: | # this will include new lines to allow paragraphs
     On the 11/27/2019 I created a discord bot which integrated patreon and github together. The client that I was working for requested a bot which when a patreon sent a message in a discord channel it would invite them to the private github repository. I managed to create this by linking the two APIs together so if a user was a patreon it allowed them to send a specific command which asked the user for their github username, Once their username was sent it would automatically send them an invitation. I also had to make it so when a user was no longer a patreon it would remove them from the repository
     
-    
 - layout: top-middle
   name: 2A Coin Tipbot
 #  link: dashboard.bencey.me
@@ -70,7 +68,7 @@
      I am currently the main Web Developer for my personal blog. This site is run on jekyll and I constantly update the blog with new features, Some of the tasks I have completed are: Adding a comment section, Adding a dynamic post and preforming bug fixes.
 
 - layout: top-middle
-  company: USRPC
+  company: Evolution Roleplay Community (Used to be known as USRPC)
   link: http://usrpc.net/
   job_title: Developer
   dates: 2020 - Present
