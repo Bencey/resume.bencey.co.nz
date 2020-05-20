@@ -87,6 +87,15 @@
    I am a community manager and social media administrator for a small company called Funkypenguin. Funkypenguin is a company that mainly focuses on new technology and software. Members create guides and blog posts about the new technology. I am the community manager for the company. Some of my tasks include: Ensuring the community are safe and do not have any complaints or issues, keep the chatrooms updated and maintained, Creating any documents if specified by a supervisor. 
 
 - layout: top-middle
+  company: Baconfeet
+  #link: https://discord.gg/EfdJ9tQ
+  job_title: Customer Support Agent
+  dates: 2018 - 2020
+#  quote: >
+  description: | # this will include new lines to allow paragraphs
+   In the past two years I have worked for an online movie streaming company. My position in this company was a support specialist. Some of my tasks with this role is to answer any questions that customers have. Further information can be given on request 
+
+- layout: top-middle
   company: Computing On Demand 
   link: https://discord.gg/3xScdPD
   job_title: Discord Administrator 
