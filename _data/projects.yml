@@ -1,13 +1,4 @@
 - layout: top-middle
-  name: Cub Leader
-#  link: github.com/sproogen
-#  github: sproogen/resume-theme
-  quote: >
-    Program Activity Leader for a Scout group in New Zealand 
-  description: | # this will include new lines to allow paragraphs
-    I am currently a Cub leader for scouts. This group of kids (aged 8-11) Meet every monday night 5pm-6:30pm Some of my roles here is to make sure everyone is safe, plan the games and to assist the other leaders with jobs that may need done.
-
-- layout: top-middle
   name: Founder- Tier III Technologies
   link: tier3tech.co.nz
 #  github: sproogen/resume-theme
