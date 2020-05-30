@@ -40,17 +40,25 @@ experience_title: Certifications / Qualifications
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in IT and Web Development some of my other interests and hobbies are:
-   - Being a Cub (scout) Leader
+  Here are some of my interests and hobbies:
    - Gaming
-   - Learning new skills
    - Cyber Security
-   - Blogging about all things IT related
-   - Cryptocurrency Enthusiast
-   - Home Automation
-   - Public Relations
-   - Tech Support
-
+   - Systems Administration
+   - Community Management
+   - Content Creation (Blogging, Streaming)
+   - Customer Support (Tech Support)
+   - Integrations Between Technologies
+   - System APIs
+   - Development (Website, Software, Hardware)
+  Here are some of the things I have experience/Knowledge in:
+   - Zendesk
+   - WHMCS
+   - JavaScript
+   - Python
+   - HTML, CSS, PHP
+   - Linux, Windows and Apple Systems
+   - Nodejs
+   - Git
 
 # Footer
 footer_show_references: true
