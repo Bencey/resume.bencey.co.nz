@@ -24,7 +24,7 @@ linkedin_username: benjamin-durham-324275178
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Benjamin and I am an IT freelancer and the founder of Tier III Technologies, I have experience in a wide variety of fields such as Web Development, Software Development, Customer Service, Systems Administration and more.
+  Hi, my name's Benjamin and I am an IT freelancer and the founder of Tier III Technologies, I have experience in a wide variety of fields such as Web Development, Software Development, Customer Service, Systems Administration and more. I am currently looking for work and you can contact me [Here](mailto:admin@bencey.co.nz)
 
   I am most skilled in: <mark>Web Development</mark> and <mark>Systems Administration</mark>
 
@@ -49,7 +49,8 @@ more_content: | # this will include new lines to allow paragraphs
    - Customer Support (Tech Support)
    - Integrations Between Technologies
    - System APIs
-   - Development (Website, Software, Hardware)
+   - Development (Website, Software, Hardware) |
+  
   Here are some of the things I have experience/Knowledge in:
    - Zendesk
    - WHMCS
