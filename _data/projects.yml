@@ -1,15 +1,11 @@
 - layout: top-middle
   name: Founder- Tier III Technologies
   link: tier3tech.co.nz
-#  github: sproogen/resume-theme
-#  quote: >
   description: | # this will include new lines to allow paragraphs
      I am the founder of a local IT buisness called Tier III Technologies. My job is to preform a varity of IT jobs such as repairs, data recovery, System setup, diagnostic tests and much more.
 
 - layout: top-middle
   name: Bencey Bot
-  #link: dashboard.bencey.me
-#  github: sproogen/resume-theme
   quote: >
     A multipurpose Discord Bot
   description: | # this will include new lines to allow paragraphs
@@ -17,8 +13,6 @@
 
 - layout: top-middle
   name: CodPool Chat Bridge
-  #link: dashboard.bencey.me
-#  github: sproogen/resume-theme
   quote: >
     Linking DIscord and Telegram together
   description: | # this will include new lines to allow paragraphs
@@ -26,8 +20,6 @@
   
 - layout: top-middle
   name: Patreon Github Integration
-  #link: dashboard.bencey.me
-#  github: sproogen/resume-theme
   quote: >
     Linking Github and Patreon together
   description: | # this will include new lines to allow paragraphs
@@ -35,84 +27,75 @@
     
 - layout: top-middle
   name: 2A Coin Tipbot
-#  link: dashboard.bencey.me
-#  github: sproogen/resume-theme
   quote: >
     A Crypto Discord Bot
   description: | # this will include new lines to allow paragraphs
     I recently reworked a bot for a cryptocurrency coin (2ACoin). This bot allowed users to tip each other coins, this bot worked by relaying the payment to the users wallet addresses. This bot was reworked from the original bot made by turtlecoin. This bot was made for the coin 2ACoin.
 
 - layout: top-middle
+  name: Twitch Discord Bot
+  description: | # this will include new lines to allow paragraphs
+    I Made a discord bot that would connect to the Twitch API and would alert users that are in a discord server that the user is streaming (Would also say what the stream title is and what game they are playing). I made this bot using discord.js and the bot was requested to be made by a client. Also when a message was sent in the twitch chat it would post it to discord and when a message was posted in discord it would be posted to the twitch chat.
+
+- layout: top-middle
   name: Web Developer- Betterbarriers
   link: betterbarriers.com
-#  github: sproogen/resume-theme
-#  quote: >
   description: | # this will include new lines to allow paragraphs
      I am currently doing freelance Web Development work for betterbarriers. Some of the tasks I have been given include, Adding new pages and updating plugins, Editing the colour scheme and preforming matinence on the site when needed, I also get given misc jobs by the team.
 
 - layout: top-middle
   name: Web Developer- My Blog
   link: bencey.co.nz
-#  github: sproogen/resume-theme
-#  quote: >
   description: | # this will include new lines to allow paragraphs
      I am currently the main Web Developer for my personal blog. This site is run on jekyll and I constantly update the blog with new features, Some of the tasks I have completed are: Adding a comment section, Adding a dynamic post and preforming bug fixes.
 
 - layout: top-middle
+  name: Web Developer- Evolution Roleplay Community
+  description: | # this will include new lines to allow paragraphs
+    I have recently created and designed a website for Evolution Roleplay. This website contained important server information, links and contained a gallery. The gallery had a dynamic photo system so when a photo was added to a folder it would add it to the website. Underneath the photo it would contain the photo name this was done by php retrieving the filename and removing the file extension it then posted the filename under the image.
+    
+- layout: top-middle
   company: Evolution Roleplay Community (Used to be known as USRPC)
-  link: http://usrpc.net/
+  link: usrpc.net
   job_title: Developer
   dates: 2020 - Present
-#  quote: >
   description: | # this will include new lines to allow paragraphs
    I am a developer for a FiveM Community, The server is a roleplaying community based around the game Fivem (Roleplaying version of Gta). Majority of our scripts are coded in Lua and I am one of the members of the small team that are focused on keeping the server maintained and adding new features. Some of my jobs I have been tasked with are creating an anticheat for the server as we have had issues with exploiters in the past. I also apply bug fixes to scripts when we are notified of a bug. 
 
 - layout: top-middle
   company: Funkypenguin
   link: https://discord.gg/EfdJ9tQ
-  job_title: Discord Administrator
+  job_title: Community Administrator
   dates: 2018 - Present
-#  quote: >
-
   description: | # this will include new lines to allow paragraphs
-   I am a community manager and social media administrator for a small company called Funkypenguin. Funkypenguin is a company that mainly focuses on new technology and software. Members create guides and blog posts about the new technology. I am the community manager for the company. Some of my tasks include: Ensuring the community are safe and do not have any complaints or issues, keep the chatrooms updated and maintained, Creating any documents if specified by a supervisor. 
+   I am a Community Manager / Developer for a small company called Funkypenguin. Funkypenguin is a company that mainly focuses on new technology and software. Members create guides and blog posts about the new technology. I am the community manager for the company. Some of my tasks include: Ensuring the community are safe and do not have any complaints or issues, keep the chatrooms updated and maintained, Creating any documents if specified by a supervisor. 
 
 - layout: top-middle
   company: Baconfeet
-  #link: https://discord.gg/EfdJ9tQ
   job_title: Customer Support Agent
   dates: 2018 - 2020
-#  quote: >
   description: | # this will include new lines to allow paragraphs
    In the past two years I have worked for an online movie streaming company. My position in this company was a support specialist. Some of my tasks with this role is to answer any questions that customers have. Further information can be given on request 
 
 - layout: top-middle
   company: Computing On Demand 
   link: https://discord.gg/3xScdPD
-  job_title: Discord Administrator 
+  job_title: Developer
   dates: 2018 - Present
-#  quote: >
-
   description: | # this will include new lines to allow paragraphs
    I am the community manager and lead developer for a company called Computing on demand. This company is mainly based around technologies and server hosting. Some of my tasks within the company include: Ensuring the community do not have any issues or complaints, Creating new technologies that better suit the community eg chat bridges. And providing any assistance if requested by supervisors
 
-
 - layout: top-middle
-  company: Firing Range
-#  link: https://discord.gg/e9rwUc7
-  job_title: Chat Moderator
+  company: Firing Range Community
+  job_title: Human Resources Director
   dates: 2017 - Present
-#  quote: >
-
   description: | # this will include new lines to allow paragraphs
-    I am currently a chat mod for a discord server that is based around firing ranges and guns. Some of my main jobs is to watch chat and make sure that everyone is enjoying themself and behaving. And if there is multiple members on I will host an friendly event between the members.
+    I am currently a Manager for a community that is based around firing ranges and guns. Some of my main jobs is to watch chat and make sure that everyone is enjoying themself and behaving. I create official announcements and documents when needed. I conduct trainings for new members of our Human Resources team and I ensure that all departments and Staff are managing efficiently and appropriately.
 
 - layout: top-middle
   company: Previous Companies
-#  link: https://discord.gg/e9rwUc7
-  job_title: Community Manager
+#  job_title: Community Manager
   dates: 2017 - 2019
-#  quote: >
   description: | # this will include new lines to allow paragraphs
     Gotpvp: Discord Administrator / Developer 2017-2019, DistrictPvP- Discord Administrator / Developer 2018-2019, Qnap: Community Manager 2018 - 2020
 
