@@ -37,7 +37,14 @@
   quote: >
     A Crypto Discord Bot
   description: | # this will include new lines to allow paragraphs
-    I recently reworked a bot for a cryptocurrency coin (2ACoin). This bot allowed users to tip each other coins, this bot worked by relaying the payment to the users wallet addresses. This bot was reworked from the original bot made by turtlecoin. This bot was made for the coin 2ACoin.
+    I recently created software for a cryptocurrency coin (2ACoin). This allowed users to  send each other crypto currency via discord. The program used BlockChain API And Discord API. When the user first joined for the first time they need to register their wallet using the program and then their username and wallet address will be saved in a database. If someone was to send that user coins it would pull the wallet address from the database send the coins and then subtract the coins from the senders wallet.
+
+- layout: top-middle
+  name: Ombre Tipbot
+  quote: >
+    A Crypto Discord Bot
+  description: | # this will include new lines to allow paragraphs
+    I recently created software for a cryptocurrency coin (Ombre). This allowed users to  send each other crypto currency via discord. The program used BlockChain API And Discord API. When the user first joined for the first time they need to register their wallet using the program and then their username and wallet address will be saved in a database. If someone was to send that user coins it would pull the wallet address from the database send the coins and then subtract the coins from the senders wallet.
 
 - layout: top-middle
   name: Twitch Discord Bot
