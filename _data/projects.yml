@@ -9,7 +9,7 @@
   quote: >
     A multipurpose Discord Bot
   description: | # this will include new lines to allow paragraphs
-    Over the past few years I have been designing a discord bot. This bot is programmed in discordjs (A nodejs module branched from java script) So far the things that this bot can do is moderation, A level system, Chat and lots of Fun. This bot has been archived as of 4/27/2020
+    This bot is programmed in discordjs (A nodejs module branched from java script) The bot was connected to a database which allowed persistant data for example each server had their own unique settings which allowed admins to choose how users were greeted when they joined the server, What channel the server logs would be sent to and other small settings. The Bot also had a dashboard which allowed users to visit the dashboard on any browser and was able to view the Member list, Scoreboard, Settings, Command list and more. This bot is no longer maintained but I have plans on bringing it back
 
 - layout: top-middle
   name: CodPool Chat Bridge
