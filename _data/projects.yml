@@ -72,9 +72,17 @@
   company: Evolution Roleplay Community (Used to be known as USRPC)
   link: usrpc.net
   job_title: Developer
+  dates: 2020 - 2020
+  description: | # this will include new lines to allow paragraphs
+   I was a developer for a FiveM Community, The server is a roleplaying community based around the game Fivem (Roleplaying version of Gta). Majority of our scripts are coded in Lua and I was one of the members of the small team that are focused on keeping the server maintained and adding new features. Some of my jobs I was tasked with were creating an anticheat for the server as they had issues with exploiters in the past. I also applied bug fixes to scripts when we were notified of a bug. 
+
+- layout: top-middle
+  company: CronoTech
+  link: http://cronotech.us/
+  job_title: Developer
   dates: 2020 - Present
   description: | # this will include new lines to allow paragraphs
-   I am a developer for a FiveM Community, The server is a roleplaying community based around the game Fivem (Roleplaying version of Gta). Majority of our scripts are coded in Lua and I am one of the members of the small team that are focused on keeping the server maintained and adding new features. Some of my jobs I have been tasked with are creating an anticheat for the server as we have had issues with exploiters in the past. I also apply bug fixes to scripts when we are notified of a bug. 
+    Developer for ChronoTech which is a development company that creates FiveM servers, Discord bots, Cads, Websites and provides hosting
 
 - layout: top-middle
   company: Funkypenguin
