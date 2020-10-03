@@ -1,55 +1,52 @@
 - layout: top-middle
-  company: ZSecurity
-  link: https://www.udemy.com/course/learn-social-engineering-from-scratch/
-  job_title: Learn Social Engineering From Scratch
-  dates: 17th November 2019
-#  quote: >
+  company: Firing Range Community
+  job_title: Human Resources Director
+  dates: 2017 - Present
+  description: |
+    I am currently a Manager for a community that is based around firing ranges and guns. Some of my main jobs is to watch chat and make sure that everyone is enjoying themself and behaving. I create official announcements and documents when needed. I conduct trainings for new members of our Human Resources team and I ensure that all departments and Staff are managing efficiently and appropriately.
 
-  description: | # this will include new lines to allow paragraphs
-    Completed Social Engineering from scratch Course through ZSecurity on Udemy
-    
 - layout: top-middle
-  company: ZSecurity
-  link: https://www.udemy.com/course/learn-ethical-hacking-from-scratch/
-  job_title: Learn Ethical Hacking From Scratch
-  dates: 29th August 2019
-#  quote: >
+  name: Tier III Technologies
+  link: https://tier3tech.co.nz
+  job_title: Founder
+  dates: 2018 - Present
+  description: | 
+     I am the founder of a local IT buisness called Tier III Technologies. My job is to preform a varity of IT jobs such as repairs, data recovery, System setup, diagnostic tests and much more.
 
-  description: | # this will include new lines to allow paragraphs
-    Completed Ethical Hacking from scratch Course through ZSecurity on Udemy
-    
 - layout: top-middle
-  company: NZQA
-  link: https://www.nzqa.govt.nz/ncea/understanding-ncea/how-ncea-works/ncea-levels-and-certificates/
-  job_title: NCEA Level 1
-  dates: December 2018
-#  quote: >
-  description: | # this will include new lines to allow paragraphs
-    Completed NCEA Level 1 Which is a formal certification of learning
-    
+  company: Baconfeet
+  job_title: Customer Support Agent
+  dates: 2018 - 2020
+  description: | 
+   In the past two years I have worked for an online movie streaming company. My position in this company was a support specialist. Some of my tasks with this role is to answer any questions that customers have. Further information can be given on request 
+
 - layout: top-middle
-  company: NZQA
-  link: https://www.nzqa.govt.nz/ncea/understanding-ncea/how-ncea-works/ncea-levels-and-certificates/
-  job_title: NCEA Level 2
-  dates: December 2019
-#  quote: >
-  description: | # this will include new lines to allow paragraphs
-    Completed NCEA Level 2 Which is a formal certification of learning
-    
+  company: Computing On Demand 
+  link: https://discord.gg/3xScdPD
+  job_title: Developer
+  dates: 2018 - Present
+  description: | 
+   I am the community manager and lead developer for a company called Computing on demand. This company is mainly based around technologies and server hosting. Some of my tasks within the company include: Ensuring the community do not have any issues or complaints, Creating new technologies that better suit the community eg chat bridges. And providing any assistance if requested by supervisors
+
 - layout: top-middle
-  company: St John
-  link: https://buy.stjohn.org.nz/first-aid/first-aid-courses/first-aid-level-1
-  job_title: First Aid Lv 1
-  dates: November 2019
-#  quote: >
-  description: | # this will include new lines to allow paragraphs
-    Completed First Aid Level 1 which is a formal first aid certificate
-    
+  company: Funkypenguin
+  link: https://discord.gg/EfdJ9tQ
+  job_title: Community Administrator
+  dates: 2018 - Present
+  description: | 
+   I am a Community Manager / Developer for a small company called Funkypenguin. Funkypenguin is a company that mainly focuses on new technology and software. Members create guides and blog posts about the new technology. I am the community manager for the company. Some of my tasks include: Ensuring the community are safe and do not have any complaints or issues, keep the chatrooms updated and maintained, Creating any documents if specified by a supervisor. 
+
 - layout: top-middle
-  company: BIMZ
-  #link: https://buy.stjohn.org.nz/first-aid/first-aid-courses/first-aid-level-1
-  job_title: Health And Safety
-  dates: February 2020
-#  quote: >
-  description: | # this will include new lines to allow paragraphs
-    Completed Workplace Health And Safety Course
+  company: CronoTech
+  link: http://cronotech.us/
+  job_title: Developer
+  dates: 2020 - Present
+  description: | 
+    Developer for ChronoTech which is a development company that creates FiveM servers, Discord bots, Cads, Websites and provides hosting
+
+- layout: top-middle
+  company: Evolution Roleplay Community
+  job_title: Developer
+  dates: 2020 - 2020
+  description: |
+   I was a developer for a FiveM Community, The server is a roleplaying community based around the game Fivem (Roleplaying version of Gta). Majority of our scripts are coded in Lua and I was one of the members of the small team that are focused on keeping the server maintained and adding new features. Some of my jobs I was tasked with were creating an anticheat for the server as they had issues with exploiters in the past. I also applied bug fixes to scripts when we were notified of a bug. 

@@ -8,3 +8,17 @@
     Currently a student at a university (College for me) somewhere in New Zealand which I am not going to reveal the name of. I am currently a year 13 student and will be completing my school education at the end of 2020
 
     I am currently involved in many clubs within the school one of the groups I am is the Leos Club, This club is dedicated towards community service and helping the community. We meet weekly and discuss what we can do to contribute to the community / School. Another group I am involved in is the Audio Visual Group. I am one of the senior AV Techs and I am in charge of making sure that events have sound setup such as prize givings, assemblies and sports events. I help teach the new members how to setup these events and divide the work between us all
+
+- layout: left
+  name: NCEA Achievement
+  dates: 2018
+  qualification: NCEA Level 1
+  description: | # this will include new lines to allow paragraphs
+    Completed NCEA Level 1 Which is a formal certification of learning
+
+- layout: left
+  name: NCEA Achievement
+  dates: 2019
+  qualification: NCEA Level 2
+  description: | # this will include new lines to allow paragraphs
+    Completed NCEA Level 2 Which is a formal certification of learning
