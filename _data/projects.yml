@@ -1,123 +1,57 @@
 - layout: top-middle
-  name: Founder- Tier III Technologies
-  link: tier3tech.co.nz
-  description: | # this will include new lines to allow paragraphs
-     I am the founder of a local IT buisness called Tier III Technologies. My job is to preform a varity of IT jobs such as repairs, data recovery, System setup, diagnostic tests and much more.
-
-- layout: top-middle
   name: Bencey Bot
   quote: >
     A multipurpose Discord Bot
-  description: | # this will include new lines to allow paragraphs
+  description: |
     This bot is programmed in discordjs (A nodejs module branched from java script) The bot was connected to a database which allowed persistant data for example each server had their own unique settings which allowed admins to choose how users were greeted when they joined the server, What channel the server logs would be sent to and other small settings. The Bot also had a dashboard which allowed users to visit the dashboard on any browser and was able to view the Member list, Scoreboard, Settings, Command list and more. This bot is no longer maintained but I have plans on bringing it back
 
 - layout: top-middle
   name: CodPool Chat Bridge
   quote: >
     Linking DIscord and Telegram together
-  description: | # this will include new lines to allow paragraphs
+  description: |
     Created a chat bridge for CodPool which linked their telegram and discord servers together. This bot uses the API Of Discord And Telegram so if a user was to talk in a specific discord channel it would send the message to telegram, and if a message was sent in telegram it would send it to that specific discord channel. This allows users from each platform to communicate with each other without having to install another program on their computer. If a message was deleted on discord it would also delete it from the telegram which made it easier for Moderators to do their job
   
 - layout: top-middle
   name: Ombre Chat Bridge
   quote: >
     Linking DIscord and Telegram together
-  description: | # this will include new lines to allow paragraphs
+  description: | 
     Created a chat bridge for Ombre which linked their telegram and discord servers together. This bot uses the API Of Discord And Telegram so if a user was to talk in a specific discord channel it would send the message to telegram, and if a message was sent in telegram it would send it to that specific discord channel. This allows users from each platform to communicate with each other without having to install another program on their computer. If a message was deleted on discord it would also delete it from the telegram which made it easier for Moderators to do their job
   
 - layout: top-middle
   name: Patreon Github Integration
   quote: >
     Linking Github and Patreon together
-  description: | # this will include new lines to allow paragraphs
+  description: |
     On the 11/27/2019 I created a discord bot which integrated patreon and github together. The client that I was working for requested a bot which when a patreon sent a message in a discord channel it would invite them to the private github repository. I managed to create this by linking the two APIs together so if a user was a patreon it allowed them to send a specific command which asked the user for their github username, Once their username was sent it would automatically send them an invitation. I also had to make it so when a user was no longer a patreon it would remove them from the repository
     
 - layout: top-middle
   name: 2A Coin Tipbot
   quote: >
     A Crypto Discord Bot
-  description: | # this will include new lines to allow paragraphs
+  description: | 
     I recently created software for a cryptocurrency coin (2ACoin). This allowed users to  send each other crypto currency via discord. The program used BlockChain API And Discord API. When the user first joined for the first time they need to register their wallet using the program and then their username and wallet address will be saved in a database. If someone was to send that user coins it would pull the wallet address from the database send the coins and then subtract the coins from the senders wallet.
 
 - layout: top-middle
   name: Ombre Tipbot
   quote: >
     A Crypto Discord Bot
-  description: | # this will include new lines to allow paragraphs
+  description: | 
     I recently created software for a cryptocurrency coin (Ombre). This allowed users to  send each other crypto currency via discord. The program used BlockChain API And Discord API. When the user first joined for the first time they need to register their wallet using the program and then their username and wallet address will be saved in a database. If someone was to send that user coins it would pull the wallet address from the database send the coins and then subtract the coins from the senders wallet.
 
 - layout: top-middle
   name: Twitch Discord Bot
-  description: | # this will include new lines to allow paragraphs
+  description: |
     I Made a discord bot that would connect to the Twitch API and would alert users that are in a discord server that the user is streaming (Would also say what the stream title is and what game they are playing). I made this bot using discord.js and the bot was requested to be made by a client. Also when a message was sent in the twitch chat it would post it to discord and when a message was posted in discord it would be posted to the twitch chat.
 
 - layout: top-middle
-  name: Web Developer- Betterbarriers
-  link: betterbarriers.com
-  description: | # this will include new lines to allow paragraphs
-     I am currently doing freelance Web Development work for betterbarriers. Some of the tasks I have been given include, Adding new pages and updating plugins, Editing the colour scheme and preforming matinence on the site when needed, I also get given misc jobs by the team.
-
-- layout: top-middle
-  name: Web Developer- My Blog
-  link: bencey.co.nz
-  description: | # this will include new lines to allow paragraphs
-     I am currently the main Web Developer for my personal blog. This site is run on jekyll and I constantly update the blog with new features, Some of the tasks I have completed are: Adding a comment section, Adding a dynamic post and preforming bug fixes.
-
-- layout: top-middle
   name: Web Developer- Evolution Roleplay Community
-  description: | # this will include new lines to allow paragraphs
+  description: | 
     I have recently created and designed a website for Evolution Roleplay. This website contained important server information, links and contained a gallery. The gallery had a dynamic photo system so when a photo was added to a folder it would add it to the website. Underneath the photo it would contain the photo name this was done by php retrieving the filename and removing the file extension it then posted the filename under the image.
-    
-- layout: top-middle
-  company: Evolution Roleplay Community (Used to be known as USRPC)
-  link: usrpc.net
-  job_title: Developer
-  dates: 2020 - 2020
-  description: | # this will include new lines to allow paragraphs
-   I was a developer for a FiveM Community, The server is a roleplaying community based around the game Fivem (Roleplaying version of Gta). Majority of our scripts are coded in Lua and I was one of the members of the small team that are focused on keeping the server maintained and adding new features. Some of my jobs I was tasked with were creating an anticheat for the server as they had issues with exploiters in the past. I also applied bug fixes to scripts when we were notified of a bug. 
 
 - layout: top-middle
-  company: CronoTech
-  link: http://cronotech.us/
-  job_title: Developer
-  dates: 2020 - Present
-  description: | # this will include new lines to allow paragraphs
-    Developer for ChronoTech which is a development company that creates FiveM servers, Discord bots, Cads, Websites and provides hosting
-
-- layout: top-middle
-  company: Funkypenguin
-  link: https://discord.gg/EfdJ9tQ
-  job_title: Community Administrator
-  dates: 2018 - Present
-  description: | # this will include new lines to allow paragraphs
-   I am a Community Manager / Developer for a small company called Funkypenguin. Funkypenguin is a company that mainly focuses on new technology and software. Members create guides and blog posts about the new technology. I am the community manager for the company. Some of my tasks include: Ensuring the community are safe and do not have any complaints or issues, keep the chatrooms updated and maintained, Creating any documents if specified by a supervisor. 
-
-- layout: top-middle
-  company: Baconfeet
-  job_title: Customer Support Agent
-  dates: 2018 - 2020
-  description: | # this will include new lines to allow paragraphs
-   In the past two years I have worked for an online movie streaming company. My position in this company was a support specialist. Some of my tasks with this role is to answer any questions that customers have. Further information can be given on request 
-
-- layout: top-middle
-  company: Computing On Demand 
-  link: https://discord.gg/3xScdPD
-  job_title: Developer
-  dates: 2018 - Present
-  description: | # this will include new lines to allow paragraphs
-   I am the community manager and lead developer for a company called Computing on demand. This company is mainly based around technologies and server hosting. Some of my tasks within the company include: Ensuring the community do not have any issues or complaints, Creating new technologies that better suit the community eg chat bridges. And providing any assistance if requested by supervisors
-
-- layout: top-middle
-  company: Firing Range Community
-  job_title: Human Resources Director
-  dates: 2017 - Present
-  description: | # this will include new lines to allow paragraphs
-    I am currently a Manager for a community that is based around firing ranges and guns. Some of my main jobs is to watch chat and make sure that everyone is enjoying themself and behaving. I create official announcements and documents when needed. I conduct trainings for new members of our Human Resources team and I ensure that all departments and Staff are managing efficiently and appropriately.
-
-- layout: top-middle
-  company: Previous Companies
-#  job_title: Community Manager
-  dates: 2017 - 2019
-  description: | # this will include new lines to allow paragraphs
-    Gotpvp: Discord Administrator / Developer 2017-2019, DistrictPvP- Discord Administrator / Developer 2018-2019, Qnap: Community Manager 2018 - 2020
-
+  name: Bencey's Blog
+  link: bencey.co.nz
+  description: | 
+     Developed my personal blog and provide frequent updates
