@@ -4,21 +4,18 @@ repository: sproogen/resume-theme
 
 # Personal info
 name: Benjamin Durham
-title: Founder Of Tier III Technologies
+title: Benjamin's Resume
+description: Read more about Benjamins Previous Jobs & Projects
+
+
 email: admin@bencey.co.nz
 website: www.bencey.co.nz
 
 # Social links
 twitter_username: bencey4
 github_username:  bencey
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
 instagram_username: benjamin_durham_westhead
 linkedin_username: benjamin-durham-324275178
-# pinterest_username: jekyll
-#youtube_username: 
-# googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
